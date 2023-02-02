@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "story1",
-    "slug": "story1",
+    "name": "story",
+    "slug": "story",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
